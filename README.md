@@ -22,7 +22,6 @@ La police du site est Raleway.
 
 Complete documentation is available at [Mon repository](https://github.com/LaurenceKR/LaurenceKuhner_2_07072021).
 
-![Image](/images_web/Laurence_P2_reservia.png
-)
+![Image](https://github.com/hello-challenger/markdown/blob/main/image_web/Laurence_P2_reservia.png)
 
 
